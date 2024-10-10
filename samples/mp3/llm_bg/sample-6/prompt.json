@@ -1,0 +1,7 @@
+{
+    "prompt": "TV series, slow tempo, bass guitar, electric guitar, teenage drama, male vocalist, acoustic drum, piano, pop, opening theme, mellow",
+    "out_folder": "infer_llm_bg_checkpoint-275030/bc56c72f31fb64d5a98366b75d0a5ba46e4f6fc1_6",
+    "main_duration": 4,
+    "previous_duration": 4,
+    "chunk_duration": 12
+}

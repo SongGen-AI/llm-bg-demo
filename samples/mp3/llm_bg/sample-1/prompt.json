@@ -1,0 +1,7 @@
+{
+    "prompt": "motivational music, drumming, instrumental, energetic drums, drum fill, drum solo, fitness music, workout music",
+    "out_folder": "infer_llm_bg_checkpoint-275030/548da380d0bc42da87ccae36f7a0627db9a1df2f_5",
+    "main_duration": 4,
+    "previous_duration": 4,
+    "chunk_duration": 12
+}

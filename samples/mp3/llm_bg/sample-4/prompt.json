@@ -1,0 +1,7 @@
+{
+    "prompt": "instrumental, harmonica, acoustic guitar, bass guitar, slow tempo, acoustic drum, sentimental, advertisement jingle, beat-making",
+    "out_folder": "infer_llm_bg_checkpoint-275030_part2/b243e7a0066b4b138ad4ae7f8da7608e_15",
+    "main_duration": 4,
+    "previous_duration": 4,
+    "chunk_duration": 12
+}

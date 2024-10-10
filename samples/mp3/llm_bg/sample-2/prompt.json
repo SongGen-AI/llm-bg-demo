@@ -1,0 +1,7 @@
+{
+    "prompt": "soft, instrumental, mellow, electric guitar",
+    "out_folder": "infer_llm_bg_checkpoint-275030/731c6f3920b4b654e1c61ce8b2dcd254d33c6407_7",
+    "main_duration": 4,
+    "previous_duration": 4,
+    "chunk_duration": 12
+}

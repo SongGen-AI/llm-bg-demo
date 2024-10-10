@@ -1,0 +1,8 @@
+{
+    "prompt": "heavy metal, screaming vocals, distorted electric guitar, bass guitar, metal drum beat, aggressive, violent, action video game soundtrack",
+    "out_folder": "infer_llm_bg_best_2k/fbbe919f9c8a46d290fe971e14a2edd6_5",
+    "main_duration": 4,
+    "previous_duration": 4,
+    "chunk_duration": 12,
+    "score": 0.7219828963279724
+}

@@ -1,0 +1,7 @@
+{
+    "prompt": "groovy, rock, electric guitar, hi hats, funky, bass guitar, passionate, kick, snare, male vocal",
+    "out_folder": "infer_llm_bg_checkpoint-275030/b2072efbe63b497198bf5906698f8f06_5",
+    "main_duration": 4,
+    "previous_duration": 4,
+    "chunk_duration": 12
+}

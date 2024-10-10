@@ -1,0 +1,8 @@
+{
+    "prompt": "heavy metal, male vocal, distorted electric guitar, bass guitar, acoustic drums, loud, aggressive, violent video game",
+    "out_folder": "infer_llm_bg_best_2k/db811b846ea444a094949bd4c9007551_9",
+    "main_duration": 4,
+    "previous_duration": 4,
+    "chunk_duration": 12,
+    "score": 0.6281757354736328
+}
